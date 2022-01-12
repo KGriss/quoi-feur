@@ -1,0 +1,39 @@
+body
+{
+	background-color: #000;
+	margin: auto;
+	text-align: center;
+}
+
+*
+{
+	font-family: verdana, sans-serif;
+	color: #fff;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+h1
+{
+    font-family: "Arial Black";
+    font-weight: bold;
+	font-size: 10em;
+}
+
+h2
+{
+    font-size: 4em;
+}
+
+h2, h3
+{
+    margin: 0 20px 20px 20px;
+}
+
+#full-screen
+{
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
