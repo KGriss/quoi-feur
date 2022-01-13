@@ -1,2 +1,2 @@
 # quoi-feur
-Just a front page to make the greatest french joke ever
+Just a front page to make the greatest French joke of all time.
