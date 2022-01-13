@@ -1,6 +1,6 @@
 body
 {
-	background-color: #000;
+	background-color: #000000;
 	margin: auto;
 	text-align: center;
 }
@@ -8,7 +8,7 @@ body
 *
 {
 	font-family: verdana, sans-serif;
-	color: #fff;
+	color: #ffffff;
 	font-weight: normal;
 	text-decoration: none;
 }
@@ -25,9 +25,23 @@ h2
     font-size: 4em;
 }
 
+h3
+{
+	font-size: 2em;
+}
+
 h2, h3
 {
     margin: 0 20px 20px 20px;
+}
+
+h6, a
+{
+	text-align: right;
+	color: #444444;
+	margin: 0 3px 0 3px;
+	text-decoration: none;
+	font-size: 0.9em;
 }
 
 #full-screen
